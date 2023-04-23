@@ -17,7 +17,7 @@ A results-driven project manager dedicated to building efficient and reliable sy
 
 * 🎯 Always striving to streamline processes and optimize outcomes
 
-* 💬 Ask me about anything [here](https://github.com/rangola/rangola/issues)
+* 💬 Ask me about anything [here](https://github.com/t110e4/t110e4/issues)
 
 <p align="left">
   <img src="https://media4.giphy.com/media/xTk9ZOk8WmSKQpFg1W/giphy.gif?cid=790b7611cd0f34add4cbbeca0b68770186eced04e3b27025&rid=giphy.gif&ct=s" width="40" height="40" style="display:inline-block; vertical-align:middle;" /> 
@@ -145,5 +145,5 @@ Skills
 </p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=rangola&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rangola&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=t110e4&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&hide=prs,issues,contribs])<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=t110e4&theme=chartreuse-dark&hide_border=false)<br/>
